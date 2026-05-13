@@ -1,4 +1,3 @@
-# experiment_lzw_dict.py
 import matplotlib.pyplot as plt
 from LZ import LZW
 
